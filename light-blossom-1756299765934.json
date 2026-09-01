@@ -104,6 +104,9 @@
     "BG_BASE_TERTIARY": [
       "#fef6fb"
     ],
+    "BG_OVERLAY_PRIMARY": [
+      "#00FF00"
+    ],
     "HOME_BACKGROUND": [
       "#fef6fb"
     ],
