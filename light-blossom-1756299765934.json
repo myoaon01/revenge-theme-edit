@@ -57,7 +57,7 @@
       "#b83a6b"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "hsla(333, 70%, 90%, 0.3)"
+      "hsl(333, 70%, 90%)"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#ffffff"
@@ -69,16 +69,16 @@
       "#fef6fb"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "hsla(333, 70%, 90%, 0.3)"
+      "hsl(333, 70%, 90%)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "hsla(333, 70%, 85%, 0.5)"
+      "hsl(333, 70%, 85%)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "hsla(333, 70%, 90%, 0.3)"
+      "hsl(333, 70%, 90%)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "hsla(333, 70%, 85%, 0.5)"
+      "hsl(333, 70%, 85%)"
     ],
     "BACKGROUND_PRIMARY": [
       "#f9eaef"
@@ -103,9 +103,6 @@
     ],
     "BG_BASE_TERTIARY": [
       "#fef6fb"
-    ],
-    "BG_OVERLAY_PRIMARY": [
-      "#00FF00"
     ],
     "HOME_BACKGROUND": [
       "#fef6fb"
@@ -213,7 +210,7 @@
       "#b83a6b"
     ],
     "BG_MOD_FAINT": [
-      "hsla(333, 70%, 90%, 0.3)"
+      "hsl(333, 70%, 90%)"
     ],
     "KEYBOARD": [
       "#ffffff"
